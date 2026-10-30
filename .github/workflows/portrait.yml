@@ -1,0 +1,41 @@
+name: Generate Halftone Portrait
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"      # weekly, picks up new profile photo
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/halftone.py"
+      - ".github/workflows/portrait.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  portrait:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Pillow
+        run: pip install pillow
+
+      - name: Generate portraits (light + dark)
+        env:
+          GH_USER: ${{ github.repository_owner }}
+        run: |
+          THEME=light OUT=assets/portrait.png      python scripts/halftone.py
+          THEME=dark  OUT=assets/portrait-dark.png python scripts/halftone.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.png
+          git diff --cached --quiet || (git commit -m "chore: update halftone portrait" && git push)
