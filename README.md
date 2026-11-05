@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **Currently working on:** Building AI-powered applications and scalable full-stack projects.<br><br>👯 **Looking to collaborate on:** Open-source projects, GenAI, and impactful software solutions.<br><br>🤝 **Looking for help with:** System Design, Distributed Systems, and building production-ready applications.<br><br>🌱 **Currently learning:** Agentic AI, LLMs, Cloud Computing, and Advanced System Design.<br><br>💬 **Ask me about:** Java, DSA, Spring Boot, React, Backend Development, and Generative AI.<br><br>⚡ **Fun fact:** Solved 600+ DSA problems and previously worked as a Summer Analyst at Goldman Sachs!
+🔭 **Currently working on:** Building AI-powered applications and scalable full-stack projects.<br><br>👯 **Looking to collaborate on:** Open-source projects, GenAI, and impactful software solutions.<br><br>🤝 **Looking for help with:** System Design, Distributed Systems, and building production-ready applications.<br><br>🌱 **Currently learning:** Agentic AI, LLMs, Cloud Computing, and Advanced System Design.<br><br>💬 **Ask me about:** Java, DSA, Spring Boot, React, Backend Development, and Generative AI.<br><br>⚡ **Fun fact:** Solved 800+ DSA problems and previously worked as a Summer Analyst at Goldman Sachs!
 
 
 ## 🌐 Socials:
