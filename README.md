@@ -1,18 +1,125 @@
-# 💫 About Me:
-🔭 **Currently working on:** Building AI-powered applications and scalable full-stack projects.<br><br>👯 **Looking to collaborate on:** Open-source projects, GenAI, and impactful software solutions.<br><br>🤝 **Looking for help with:** System Design, Distributed Systems, and building production-ready applications.<br><br>🌱 **Currently learning:** Agentic AI, LLMs, Cloud Computing, and Advanced System Design.<br><br>💬 **Ask me about:** Java, DSA, Spring Boot, React, Backend Development, and Generative AI.<br><br>⚡ **Fun fact:** Solved 800+ DSA problems and previously worked as a Summer Analyst at Goldman Sachs!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:39d353&height=190&section=header&text=Muskan&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Goldman%20Sachs%20Summer%20Analyst%2726%20%7C%20NIT%20KKR%20CSE%2727%20%7C%20Exploring%20AI%2C%20building%20projec&descSize=16&descAlignY=60" width="100%" alt="header"/>
+</div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=640&height=40&lines=MuskanMehta-2006%40github+~+%24+whoami;Goldman+Sachs+Summer+Analyst%2726+%7C+NIT+KKR+CSE%2727+%7C+Exploring;I+code+in+JavaScript%2C+Python%2C+Java;Open+to+collaborate+%F0%9F%9A%80" alt="typing intro"/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=MuskanMehta-2006&label=PROFILE+VIEWS&color=39d353&style=flat-square&labelColor=0d1117" alt="views"/>
+  <img src="https://img.shields.io/github/followers/MuskanMehta-2006?label=FOLLOWERS&style=flat-square&color=39d353&labelColor=0d1117" alt="followers"/>
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muskan-mehta-95588b289/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@_shexplain.tech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muskanmehta26072006@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MuskanMehta-2006&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=MuskanMehta-2006&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MuskanMehta-2006&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+```bash
+MuskanMehta-2006@github ~ $ whoami
+```
 
----
-[![](https://komarev.com/ghpvc/?username=MuskanMehta-2006&icon=0&color=0)](https://visitcount.itsvg.in)
+<table align="center">
+  <tr>
+    <td width="360" align="center" valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/portrait-dark.png">
+        <img src="./assets/portrait.png" width="320" alt="halftone portrait"/>
+      </picture>
+    </td>
+    <td valign="middle">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```yaml
+name:         Muskan
+username:     MuskanMehta-2006
+bio:          "Goldman Sachs Summer Analyst'26 | NIT KKR CSE'27 | Exploring AI, building projects & solving DSA"
+location:     "Kurukshetra, Haryana"
+website:      "https://mock-interview-x-frontend-s1pi.vercel.app/"
+member_since: 2024
+public_repos: 9
+followers:    0
+status:       "● online & committing"
+```
+
+</td>
+  </tr>
+</table>
+
+<br/>
+
+```bash
+MuskanMehta-2006@github ~ $ ./contributions.sh
+```
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/39d353/MuskanMehta-2006" width="95%" alt="contribution graph"/>
+</div>
+
+<br/>
+
+```bash
+MuskanMehta-2006@github ~ $ ./snake.sh --eat-contributions
+```
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuskanMehta-2006/MuskanMehta-2006/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuskanMehta-2006/MuskanMehta-2006/output/github-snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/MuskanMehta-2006/MuskanMehta-2006/output/github-snake-dark.svg">
+  </picture>
+</div>
+
+<br/>
+
+```bash
+MuskanMehta-2006@github ~ $ ./stats.sh --live
+```
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MuskanMehta-2006&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=39D353&fire=39D353&currStreakNum=39D353&sideNums=FFFFFF&currStreakLabel=39D353&sideLabels=8B949E&dates=8B949E" alt="streak" width="95%"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MuskanMehta-2006&show_icons=true&bg_color=0D1117&border_color=30363D&title_color=39D353&icon_color=39D353&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github" height="170" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanMehta-2006&layout=compact&bg_color=0D1117&border_color=30363D&title_color=39D353&text_color=C9D1D9&langs_count=8" height="170" alt="top languages"/>
+</div>
+
+<br/>
+
+```bash
+MuskanMehta-2006@github ~ $ ./activity-graph.sh
+```
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuskanMehta-2006&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&area=true&area_color=39D353&hide_border=true" width="95%" alt="activity graph"/>
+</div>
+
+<br/>
+
+```bash
+MuskanMehta-2006@github ~ $ ls ~/tech-stack
+```
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,py,java,jupyter,cpp,git,github,vscode&theme=dark" alt="tech stack"/>
+</div>
+
+<br/>
+
+```bash
+MuskanMehta-2006@github ~ $ ./trophies.sh
+```
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MuskanMehta-2006&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies"/>
+</div>
+
+<br/>
+
+```bash
+MuskanMehta-2006@github ~ $ ./connect.sh
+```
+
+<div align="center">
+  <a href="https://github.com/MuskanMehta-2006"><img src="https://img.shields.io/badge/GitHub-MuskanMehta--2006-0d1117?style=for-the-badge&logo=github&logoColor=39d353" alt="GitHub"/></a>
+  <a href="https://mock-interview-x-frontend-s1pi.vercel.app/"><img src="https://img.shields.io/badge/Website-mock--interview--x--frontend--s1pi-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39d353" alt="Website"/></a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,100:0d1117&height=110&section=footer" width="100%" alt="footer"/>
+  <sub><code>exit 0</code> · thanks for stopping by ⭐</sub>
+</div>
