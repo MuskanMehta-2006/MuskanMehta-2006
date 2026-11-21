@@ -1,179 +1,139 @@
 
-<div align="center">
+# MUSKAN MEHTA
 
-<img src="./assets/header.svg" width="100%" alt="Muskan | Software Developer"/>
+### Software Developer | Goldman Sachs Summer Analyst '26
 
-<br/>
+Computer Engineering student at **NIT Kurukshetra**, passionate about building scalable applications, backend systems and AI-powered products.
 
-<a href="https://github.com/MuskanMehta-2006">
-  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-**Computer Engineering @ NIT Kurukshetra · Goldman Sachs Summer Analyst '26**
-
-*Building software, exploring AI, and solving problems.*
-
-</div>
+[GitHub](https://github.com/MuskanMehta-2006) · [LeetCode](https://leetcode.com/u/muskanmehta_2/)
 
 ---
 
 ## About Me
 
-I'm a Computer Engineering student at **NIT Kurukshetra**, interested in building scalable software and practical AI-powered applications.
-
-- 💼 Former **Goldman Sachs Summer Analyst**
-- 🎓 B.Tech in Computer Engineering, NIT Kurukshetra
-- 💻 Interested in Software Engineering, Full Stack Development and AI/ML
-- 🧠 Practising Data Structures & Algorithms and System Design
-- 🚀 Enjoy turning ideas into working products
+- 🎓 B.Tech in Computer Engineering at NIT Kurukshetra
+- 💼 Former Goldman Sachs Summer Analyst
+- 💻 Interested in Software Engineering and Full Stack Development
+- 🤖 Exploring Artificial Intelligence, Machine Learning and LLMs
+- 🧩 Practising Data Structures, Algorithms and System Design
+- 🚀 Building real-world applications and solving engineering problems
 
 ---
 
 ## Experience
 
 ### Goldman Sachs | Summer Analyst '26
-**Bengaluru, India**
+*Bengaluru, India*
 
 - Worked on backend engineering in the Transaction Banking domain.
-- Built and enhanced Java and Spring Boot based validation workflows.
+- Developed and enhanced Java and Spring Boot based validation workflows.
 - Worked with AWS ECS, Kafka, APIs and CI/CD practices.
-- Contributed to testing, code reviews and backend development.
+- Contributed to unit testing, integration testing and code reviews.
 
 ---
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Tailor Direct
+### 1. Tailor Direct
 **Custom Suit Configurator**
 
-A web-based suit customization experience with dynamic pricing and backend production ticket generation.
+A suit customization platform with dynamic pricing, measurement validation and automated factory production ticket generation.
 
-**Tech:** React, Node.js, Express, PostgreSQL
+- Frontend: React, Vite
+- Backend: Node.js, Express.js
+- Database: PostgreSQL, Neon
+- Features: Suit customization, pricing calculation, order API, idempotency handling.
 
-<a href="https://tailor-direct.vercel.app/">Live Demo</a> · <a href="https://github.com/MuskanMehta-2006/tailor-direct">Source Code</a>
+[Live Demo](https://tailor-direct.vercel.app/) · [GitHub Repository](https://github.com/MuskanMehta-2006/tailor-direct)
 
-</td>
-<td width="50%" valign="top">
+### 2. MockInterviewX
+**AI-Powered Interview Platform**
 
-### MockInterviewX
-**AI Interview Platform**
+An interview preparation platform that helps candidates practise interviews through AI-powered sessions and connect with human interviewers.
 
-An interview preparation platform with AI-powered interviews, authentication and human interview booking workflows.
+- Frontend: React
+- Backend: Java, Spring Boot
+- Database: MySQL
+- AI: LangChain, OpenAI API
+- Features: Authentication, AI interviews and interview booking.
 
-**Tech:** React, Spring Boot, MySQL, LangChain
+[Live Demo](https://mock-interview-x-frontend-s1pi.vercel.app/) · [GitHub Repository](https://github.com/MuskanMehta-2006/MockInterviewX_frontend)
 
-<a href="https://mock-interview-x-frontend-s1pi.vercel.app/">Live Demo</a> · <a href="https://github.com/MuskanMehta-2006/MockInterviewX_frontend">Source Code</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### HackSync
+### 3. HackSync
 **Hackathon Collaboration Platform**
 
-A platform designed to help participants discover hackathons, connect with teammates and manage participation.
+A platform designed to help developers discover hackathons, connect with teammates and manage their participation.
 
-**Tech:** React, Node.js, Express, MongoDB, Gemini
+- Frontend: React
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- AI: Google Gemini
+- Features: Authentication, team collaboration and admin dashboard.
 
-<a href="https://hackathon-team-main.vercel.app/">Live Demo</a> · <a href="https://github.com/sahilgarg1648/hacksync">Source Code</a>
+[Live Demo](https://hackathon-team-main.vercel.app/) · [GitHub Repository](https://github.com/sahilgarg1648/hacksync)
 
-</td>
-<td width="50%" valign="top">
+### 4. AI & Computer Vision Projects
 
-### AI & Computer Vision
-**Applied Machine Learning**
+Worked on computer vision applications involving face anti-spoofing and safety-focused detection systems.
 
-Worked on computer vision and AI-based applications, including face anti-spoofing and safety-focused detection systems.
-
-**Tech:** Python, TensorFlow, Keras, OpenCV
-
-</td>
-</tr>
-</table>
+- Python
+- TensorFlow and Keras
+- OpenCV
+- Convolutional Neural Networks
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,typescript,sql" />
-</p>
+### Programming Languages
+`Java` `C++` `Python` `JavaScript` `SQL`
 
-### Frontend & Backend
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,nodejs,express,spring" />
-</p>
+### Frontend Development
+`React.js` `HTML5` `CSS3` `JavaScript`
 
-### Databases & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,docker,git,github,postman,linux,vscode" />
-</p>
+### Backend Development
+`Spring Boot` `Node.js` `Express.js` `REST APIs`
 
-### AI / ML
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-</p>
+### Databases
+`MySQL` `PostgreSQL` `MongoDB`
+
+### Cloud & Developer Tools
+`AWS` `Docker` `Git` `GitHub` `Postman` `Linux`
+
+### AI & Machine Learning
+`Machine Learning` `Deep Learning` `TensorFlow` `OpenCV` `LLMs` `RAG` `LangChain`
+
+### Core Computer Science
+`Data Structures & Algorithms` `OOP` `DBMS` `Operating Systems` `Computer Networks` `System Design`
 
 ---
 
 ## Coding Profiles
 
-<div align="center">
-
-<a href="https://leetcode.com/">
-  <img src="https://leetcard.jacoblin.cool/GargSahil_2139?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="70%" alt="LeetCode Stats"/>
-</a>
-
-</div>
+- **LeetCode:** [muskanmehta_2](https://leetcode.com/u/muskanmehta_2/)
+- **GitHub:** [MuskanMehta-2006](https://github.com/MuskanMehta-2006)
 
 ---
 
-## GitHub Statistics
+## Currently Exploring
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuskanMehta-2006&show_icons=true&theme=transparent&hide_border=true&title_color=39D98A&icon_color=39D98A&text_color=C9D1D9" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanMehta-2006&layout=compact&theme=transparent&hide_border=true&title_color=39D98A&text_color=C9D1D9" />
-
-<br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuskanMehta-2006&bg_color=0d1117&color=39D98A&line=39D98A&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
+- Advanced Data Structures and Algorithms
+- Backend Architecture and System Design
+- Generative AI and Agentic AI
+- Scalable Full Stack Applications
+- Cloud Infrastructure and Distributed Systems
 
 ---
 
-## Let's Connect
+## Connect With Me
 
-I'm always interested in connecting with developers, collaborating on projects and exploring new opportunities.
+I'm always open to interesting projects, technical discussions, collaborations and software engineering opportunities.
 
-<div align="center">
+- GitHub: [MuskanMehta-2006](https://github.com/MuskanMehta-2006)
+- LeetCode: [muskanmehta_2](https://leetcode.com/u/muskanmehta_2/)
 
-<a href="https://github.com/MuskanMehta-2006">GitHub</a> ·
-<a href="https://www.linkedin.com/">LinkedIn</a> ·
-<a href="mailto:your-email@example.com">Email</a>
+---
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=MuskanMehta-2006&style=flat-square&color=39D98A&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-*Keep building. Keep learning.*
-
-</div>
+<p align="center">
+  <i>Building, learning and improving every day.</i>
+</p>
