@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=640&height=40&lines=MuskanMehta-2006%40github+~+%24+whoami;Goldman+Sachs+Summer+Analyst%2726+%7C+NIT+KKR+CSE%2727+%7C+Exploring;I+code+in+JavaScript%2C+Python%2C+CSS;Open+to+collaborate+%F0%9F%9A%80" alt="typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=640&height=40&lines=MuskanMehta-2006%40github+~+%24+whoami;Goldman+Sachs+Summer+Analyst%2726+%7C+NIT+KKR+CSE%2727+%7C+Exploring;I+code+in+JavaScript%2C+Jupyter+Notebook%2C+Python;Open+to+collaborate+%F0%9F%9A%80" alt="typing intro"/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=MuskanMehta-2006&label=PROFILE+VIEWS&color=39d353&style=flat-square&labelColor=0d1117" alt="views"/>
   <img src="https://img.shields.io/github/followers/MuskanMehta-2006?label=FOLLOWERS&style=flat-square&color=39d353&labelColor=0d1117" alt="followers"/>
@@ -95,7 +95,7 @@ MuskanMehta-2006@github ~ $ ls ~/tech-stack
 ```
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,css,java,jupyter,cpp,git,github,vscode&theme=dark" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=js,jupyter,py,css,java,cpp,git,github,vscode&theme=dark" alt="tech stack"/>
 </div>
 
 <br/>
